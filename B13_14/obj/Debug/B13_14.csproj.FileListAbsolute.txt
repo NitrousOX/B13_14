@@ -1,0 +1,12 @@
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\bin\Debug\B13_14.exe.config
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\bin\Debug\B13_14.exe
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\bin\Debug\B13_14.pdb
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\obj\Debug\B13_14.csprojAssemblyReference.cache
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\obj\Debug\B13_14.Form1.resources
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\obj\Debug\B13_14.Knjige.resources
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\obj\Debug\B13_14.Properties.Resources.resources
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\obj\Debug\B13_14.csproj.GenerateResource.cache
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\obj\Debug\B13_14.csproj.CoreCompileInputs.cache
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\obj\Debug\B13_14.exe
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\obj\Debug\B13_14.pdb
+D:\Skola\4ITS\Programiranje\B zadaci\B13_14\B13_14\obj\Debug\B13_14.PoKategorijama.resources
